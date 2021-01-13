@@ -12,7 +12,7 @@ This repo is mainly focused on image captioning task using the state of the art 
     * Transfer Learning
     * Data Augmentation
     * Parallel Distibuted Processing
-    * Attention model and Teacher Forcer algorithm
+    * Attention model and Teacher Forcer Algorithm
     * AlexNet, VGG-Net, ResNet, DenseNet and SquezeeNet
     * Long-Short Term Memory(LSTM) and Gated Recurrent Unit (GRU)
     * Global Vector for Word Representation(GloVe) 
