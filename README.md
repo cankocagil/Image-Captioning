@@ -27,4 +27,4 @@ Here are some samples from our Vision & Language Models:
 ![Caption3](https://user-images.githubusercontent.com/53329652/104514705-bb771900-5602-11eb-8a54-e016de65449c.png)
 
 
-Please see ImageCaptionPaper for documentation of this repo and all generated captions.
+Please see ImageCaptionPaper for documentation of this repo and all generated captions. 
