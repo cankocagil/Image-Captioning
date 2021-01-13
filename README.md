@@ -23,7 +23,7 @@ This repo is mainly focused on image captioning task using the state of the art 
 
 Here are some samples from our Vision & Language Models:
     
-![Caption1](https://user-images.githubusercontent.com/53329652/104514695-b7e39200-5602-11eb-8352-175d7fc6219f.png)
+![Caption1](https://user-images.githubusercontent.com/53329652/104514695-b7e39200-5602-11eb-8352-175d7fc6219f.png) 
 ![Caption3](https://user-images.githubusercontent.com/53329652/104514705-bb771900-5602-11eb-8a54-e016de65449c.png)
 
 
