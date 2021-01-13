@@ -18,9 +18,14 @@ This repo is mainly focused on image captioning task using the state of the art 
     * Global Vector for Word Representation(GloVe) 
     * Beam and Greedy search
     * BLEU Scores and METEOR
+
+- - - -
+
+Here are some samples from our Vision & Language Models:
     
 ![Caption1](https://user-images.githubusercontent.com/53329652/104514695-b7e39200-5602-11eb-8352-175d7fc6219f.png)
+
 ![Caption2](https://user-images.githubusercontent.com/53329652/104514701-b9ad5580-5602-11eb-8390-305311db6449.png)
-![Caption3](https://user-images.githubusercontent.com/53329652/104514705-bb771900-5602-11eb-8a54-e016de65449c.png)
-![Caption4](https://user-images.githubusercontent.com/53329652/104514707-bca84600-5602-11eb-904d-84857f248e44.png)
+
+
 
